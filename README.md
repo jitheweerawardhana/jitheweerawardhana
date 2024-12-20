@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jithendra Weerawardhana</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitheweerawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="jitheweerawardhana" /> </p>
-
 - 📫 Contact me **jithendraweerawardhana@gmail.com**
 -  🧑‍🎓 I’m an Undergraduate at **NSBM**
 ---
