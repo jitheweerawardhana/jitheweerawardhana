@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/channel/UCQsbVbmKBulMGydkHSvI3GQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="@jithendraweerawardhana3943" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/jithendra-weerawardhana/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Jithendra Weerawardhana" height="30" width="30" /></a>
 <a href="https://www.facebook.com/jithendera.weerawardana?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jithendra Weerawardhana" height="30" width="30" /></a>
-<a href="https://www.instagram.com/invites/contact/?igsh=1v056s1jf8vry&utm_content=1uiy9fkh/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="jithe_weerawardhana" height="30" width="30" /></a>
+<a href="https://www.instagram.com/jithe_weerawardhana/?hl=en" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="jithe_weerawardhana" height="30" width="30" /></a>
 </p>
 
 ---
