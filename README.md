@@ -16,7 +16,7 @@ I'm a Computer Science undergraduate at NSBM Green University, passionate about 
 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,spring,c,cs,js,html,css,bootstrap,tailwind,mysql" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,spring,python,html,css,js,react,bootstrap,tailwind,mysql,postman,android,git,github,vscode" alt="Tech Stack & Arsenal" />
   </a>
 </p>
 
